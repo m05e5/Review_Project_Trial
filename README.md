@@ -3,7 +3,6 @@
 
 # Review_Project_Trial
 
-> this is the project we did for the admission trial
 
 ![screenshot](./admission.png)
 
