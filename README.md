@@ -3,7 +3,7 @@
 
 # Review_Project_Trial
 
-> One paragraph statement about the project.
+> this is the project we did for the admission trial
 
 ![screenshot](./admission.png)
 
